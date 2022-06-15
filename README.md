@@ -10,3 +10,4 @@ kodluyoruz merge sort
 ### [8,11,12,16,21,22]
 * Big-O gösterimini yazınız.
 ### O(n logn)
+(www.patika.dev)
